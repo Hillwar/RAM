@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="person_list_logo_content_description">Rick And Morty Logo</string>
+    <string name="person_list_search_hint">Search…</string>
+    <string name="person_list_status_format">"%s - %s"</string>
+    <string name="person_list_retry">Retry</string>
+</resources>

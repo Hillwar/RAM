@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="person_detail_name_format">"%s - %s"</string>
+    <string name="person_detail_episodes">Episodes:</string>
+    <string name="person_detail_last_know_location">Last know location:</string>
+    <string name="person_detail_species">Species:</string>
+    <string name="person_detail_status">Status:</string>
+</resources>
